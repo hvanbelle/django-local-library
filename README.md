@@ -9,3 +9,4 @@
 - pip install python-dotenv
 - django-admin startproject core .
 - python manage.py startapp locallibrary
+- git ls-tree -r --name-only main  
