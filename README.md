@@ -21,4 +21,5 @@
 - python manage.py migrate
 - python manage.py runserver
 - python manage.py createsuperuser
+- python manage.py createsuperuser --username admin2 --email admin2@example.com
 - git ls-tree -r --name-only main
